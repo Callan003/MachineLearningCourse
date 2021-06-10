@@ -1,0 +1,20 @@
+{"text": " I love the movie Tenet", "probability": 0.4349301290503421}
+{"text": " I love the movie Tenet", "probability": 0.4349301290503421}
+{"text": " I love the movie Tenet 1", "probability": 0.4349301290503421}
+{"text": "I hate this movie! it sucks", "probability": 0.6317682270812625}
+{"text": "I love Tenet", "probability": 0.439817890884313}
+{"text": " I love Tenet so much", "probability": 0.43348152881880453}
+{"text": " I love Tenet so much!!", "probability": 0.43348152881880453}
+{"text": " I love this movie so much!", "probability": 0.314194773553258}
+{"text": " I love this movie so much!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "this movie sucks!", "probability": 0.658463659146288}
+{"text": "this movie sucks!", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "I do not really enjoy the movie", "probability": 0.5439378362611083}
+{"text": "I do not really enjoy the movie", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "this movie is meh", "probability": 0.5133951702723463}
+{"text": "this movie is meh", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "this movie is meh, but in the end I liked it", "probability": 0.396839493911297}
+{"text": "this movie is meh, but in the end I liked it", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love to hate this movie", "probability": 0.4416052362851961}
+{"text": "I love to hate this movie", "predicted_sentiment": "positive", "is_correct": false}
+{"text": "I love to hate this movie", "probability": 0.4416052362851961}
