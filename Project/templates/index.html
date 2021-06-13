@@ -1,19 +1,39 @@
-<html>
+<html lang="en-US">
     <head>
-        <title>Some HTML in here</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Movie Review</title>
         <link type="text/css" href="/static/index.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
-    <body>
-        <textarea class="text"> </textarea>
-        <button class="classify">Classify</button>
-        <div id="response" class="is_hidden">
-            <span id="sentiment"></span> with probability <span id="probability"></span>
-        </div>
-        <div id="feedback" class="is_hidden">
-            <button id="correct">Correct</button>
-            <button id="wrong">Wrong</button>
-        </div>
-        <script src="/static/main.js"></script>
+    <body onload="loadMovies()">
+        <div class="main-content">
+            <h1 id="movie-title"></h1>
+            <div class="image-slider">
+                <i id="left-arrow" class="fa fa-chevron-circle-left" onclick="changeMovie(-1)"></i>
+                <img id="movie-poster" src="" alt="movie-poster">
+                <i id="right-arrow" class="fa fa-chevron-circle-right" onclick="changeMovie(1)"></i>
+            </div>
 
+            <h3 id="asd">Please provide a review for this movie.<br> Did you like it? Why / why not?</h3>
+            <textarea placeholder="Write the review here..." rows="6" class="text"></textarea>
+            <br/>
+            <button class="classify button"><i class="fa fa-balance-scale"></i> Classify</button>
+            <div id="response" class="is_hidden">
+                Review sentiment: <strong id="sentiment"></strong><br/>
+                Probability: <strong id="probability"></strong>
+            </div>
+            <div id="feedback" class="is_hidden">
+                <span>Is the classification correct?</span><br/>
+                <div class="flat-button" id="correct"><i class="fa fa-check"></i> Yes</div>
+                <div class="flat-button" id="wrong"><i class="fa fa-times"></i> No</div>
+                <!-- <button id="correct" class="button"><i class="fa fa-check"></i> Yes</button>
+                <button id="wrong" class="button"><i class="fa fa-times"></i> No</button> -->
+            </div>
+            <div id="thank-you-feedback" class="is_hidden">
+                <span>Thank-you for your feedback! <i id="heart" class="fa fa-heart"></i></span>
+            </div>
+            <script src="/static/main.js"></script>
+        </div>
     </body>
 </html>

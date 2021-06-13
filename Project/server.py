@@ -7,6 +7,7 @@ from pydantic import BaseModel
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
+from os import walk
 import json
 
 class MovieReview(BaseModel):
@@ -19,7 +20,7 @@ class ReviewSentiment(BaseModel):
 app = FastAPI()
 log_file = open('requests.log', "a")
 app.mount("/static", StaticFiles(directory="static"), name="static")
-templates = Jinja2Templates(directory="templates")
+templates = Jinja2Templates(directory="templates")  
 
 @app.get("/", response_class=HTMLResponse)
 async def hello(request: Request):
@@ -48,3 +49,8 @@ async def review(feedback: FeedBack):
     log_file.write("\n")
     log_file.flush()
     return "Feedback logged"        
+
+@app.get("/movies")
+async def movies(request: Request): 
+    filenames = next(walk('static/moviesdb'), (None, None, []))[2]
+    return filenames

@@ -18,3 +18,108 @@
 {"text": "I love to hate this movie", "probability": 0.4416052362851961}
 {"text": "I love to hate this movie", "predicted_sentiment": "positive", "is_correct": false}
 {"text": "I love to hate this movie", "probability": 0.4416052362851961}
+{"text": " I really liked the World of Warcraft movie! I loved the murloc scene! Mrrrllll!", "probability": 0.16664564510876356}
+{"text": " I really liked the World of Warcraft movie! I loved the murloc scene! Mrrrllll!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": " this movie was good!", "probability": 0.43523877676170997}
+{"text": " ", "probability": 0.5061739393562165}
+{"text": " I loved this movie!", "probability": 0.27346562009849607}
+{"text": " Nice movie!", "probability": 0.45138763205667176}
+{"text": " I love this movie! The joker plays so good!", "probability": 0.26136026058859474}
+{"text": " I love this movie! The joker plays so good!", "probability": 0.26136026058859474}
+{"text": " I love this movie! The joker plays so good!", "probability": 0.26136026058859474}
+{"text": " I like this movie!", "probability": 0.4714104112665618}
+{"text": " I like this movie!", "probability": 0.4714104112665618}
+{"text": " aaaa", "probability": 0.5061739393562165}
+{"text": "love", "probability": 0.439817890884313}
+{"text": " love love", "probability": 0.3724590356871331}
+{"text": " love love", "probability": 0.3724590356871331}
+{"text": " aaaa", "probability": 0.5061739393562165}
+{"text": " love love", "probability": 0.3724590356871331}
+{"text": "sucks bad", "probability": 0.7496278818847524}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": " love love", "probability": 0.3724590356871331}
+{"text": "bad sucks", "probability": 0.7493638838674062}
+{"text": " aaa", "probability": 0.5178978327071853}
+{"text": "love", "probability": 0.439817890884313}
+{"text": " love", "probability": 0.439817890884313}
+{"text": "bad", "probability": 0.6377230462099501}
+{"text": " aaaa", "probability": 0.5061739393562165}
+{"text": " ", "probability": 0.5061739393562165}
+{"text": " ", "probability": 0.5061739393562165}
+{"text": " ", "probability": 0.5061739393562165}
+{"text": " Love it!", "probability": 0.3671733612141429}
+{"text": "hate it!", "probability": 0.4843883749972463}
+{"text": "hate it! sucks", "probability": 0.6268099774099158}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "love", "probability": 0.439817890884313}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "I love this movie!", "probability": 0.3282964379767018}
+{"text": "this movie sucks!", "probability": 0.658463659146288}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "predicted_sentiment": "", "is_correct": true}
+{"text": "", "predicted_sentiment": "", "is_correct": false}
+{"text": "I like this movie!", "probability": 0.4714104112665618}
+{"text": "I love the movie!", "probability": 0.4349301290503421}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": false}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": false}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "love love love", "probability": 0.3097127390455998}
+{"text": "love love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "I really like this movie!", "probability": 0.4267915587772515}
+{"text": "I really like this movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I like it!", "probability": 0.5122973399701252}
+{"text": "I like it!", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "love the movie!", "probability": 0.4349301290503421}
+{"text": "love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "love the movie!", "probability": 0.4349301290503421}
+{"text": "aaa", "probability": 0.5178978327071853}
+{"text": "aaa", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "lovelovelove", "probability": 0.5061739393562165}
+{"text": "lovelovelove", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "lovelovelove", "probability": 0.5061739393562165}
+{"text": "lovelovelove", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "I love love love", "probability": 0.3097127390455998}
+{"text": "I love love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love FOrrest Gump! It is nice!", "probability": 0.31201042429846904}
+{"text": "I love FOrrest Gump! It is nice!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love FOrrest Gump! It is nice!", "probability": 0.31201042429846904}
+{"text": "I love FOrrest Gump! It is nice!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love FOrrest Gump! It is nice!", "probability": 0.31201042429846904}
+{"text": "I love FOrrest Gump! It is nice!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love FOrrest Gump! It is nice!", "probability": 0.31201042429846904}
+{"text": "Very nice!", "probability": 0.39516065323110205}
+{"text": "Very nice!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "the best movie ever! it is my favorite!", "probability": 0.12231174411722967}
+{"text": "the best movie ever! it is my favorite!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "Interesting movie! plot twist after plot twist! very good acting", "probability": 0.5532298250514965}
+{"text": "Interesting movie! plot twist after plot twist! very good acting", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": "love love", "predicted_sentiment": "positive", "is_correct": true}
